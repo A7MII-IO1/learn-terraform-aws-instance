@@ -1,8 +1,8 @@
 terraform {
   cloud {
-    organization = "learn-hashicorp-remote"
+    organization = "hashicorp-remote"
     workspaces {
-      name = "learn-terraform-aws"
+      name = "terraform-aws"
     }
   }
 
