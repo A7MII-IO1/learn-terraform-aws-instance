@@ -3,6 +3,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-v1.2%2B-5C4EE5?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
 ![OpenAI](https://img.shields.io/badge/OpenAI-ChatGPT_4-10a37f?logo=openai&logoColor=white)
+![VS Code](https://img.shields.io/badge/Editor-VSCode-007ACC?logo=visual-studio-code)
 
 This repository contains Terraform configuration files to provision a basic infrastructure on **AWS**, including:
 
@@ -109,4 +110,4 @@ terraform apply
 ## 🙋‍♂️ Maintainer
 
 **Chetniphat Varasai**  
-Cloud Engineer
+Cloud Engineer  
