@@ -1,4 +1,4 @@
-# 🌐 Terraform AWS Infrastructure
+# Terraform AWS Infrastructure
 
 ![Terraform](https://img.shields.io/badge/Terraform-v1.2%2B-5C4EE5?logo=terraform)
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws)
@@ -16,7 +16,7 @@ This repository contains Terraform configuration files to provision a basic infr
 
 ---
 
-## 📦 Project Structure
+## Project Structure
 
 ```
 .
@@ -28,7 +28,7 @@ This repository contains Terraform configuration files to provision a basic infr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 
@@ -58,7 +58,7 @@ terraform apply
 
 ---
 
-## 🔧 Configuration
+## Configuration
 
 ### Input Variables
 
@@ -82,7 +82,7 @@ terraform apply
 
 ---
 
-## 🗺️ Topology Diagram
+## Topology Diagram
 
 ```text
           ┌────────────┐
@@ -107,7 +107,13 @@ terraform apply
 
 ---
 
-## 🙋‍♂️ Maintainer
+## Maintainer
 
 **Chetniphat Varasai**  
 Cloud Engineer  
+
+---
+
+## License
+
+**This project is All Rights Reserved.** You are not permitted to use, distribute, or modify the code without explicit permission from the author.
